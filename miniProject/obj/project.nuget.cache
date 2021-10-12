@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJYtyf7N4tJoncmtwLMNjZC+T2I94iqQMBsc03xk+eDlB9ziLjXv08RAJ1VDNuSeAYNGhg2kWSimwOQlyATSUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mads6\\Documents\\GitHub\\AAU\\P3\\miniProject\\miniProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mads6\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\system.servicemodel.syndication.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
